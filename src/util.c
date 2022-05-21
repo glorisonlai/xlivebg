@@ -30,7 +30,7 @@ static char *homedir;
 
 static const char *cfgpath_fmt[] = {
 	"%s/.xlivebg/config",
-	"%s/.config/xlivebg.conf",
+	"%s/.config/xlivebg/xlivebg.conf",
 	"/etc/xlivebg.conf",
 	0
 };
